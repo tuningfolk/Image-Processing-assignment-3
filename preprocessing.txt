@@ -1,0 +1,5 @@
+Convert to grayscale
+- using cv2Color
+
+Adaptive Thresholding
+- This is done using OpenCV's adpativeThreshold function
